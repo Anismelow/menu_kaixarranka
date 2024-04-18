@@ -1,6 +1,6 @@
 # Proyecto carta de menu Kaixarranka
 
-Este es un proyecto colaborativo en el que se propone una app web para mostrar el menu del Kaixarranka 
+Este es un proyecto colaborativo en el que se propone una app web para mostrar el menú del restaurante Kaixarranka 
 
 ## Autores:
 
