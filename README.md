@@ -3,8 +3,7 @@
 Este es un proyecto colaborativo en el que se propone una app web para mostrar el menú del restaurante Kaixarranka 
 
 **Diseño**
-[Diseño](![image](https://github.com/Anismelow/menu_kaixarranka/assets/90198371/371d1cb3-524e-4e0e-825e-a7f4e6dac158)
-)
+![image](https://github.com/Anismelow/menu_kaixarranka/assets/90198371/de22f94f-e658-4102-b1fa-5f1b97bc6eee)
 
 ### Eslint
 - Estilos JS Standard
