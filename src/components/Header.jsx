@@ -1,7 +1,7 @@
 export default function Header () {
   return (
-    <header className='w-screen h-auto flex justify-center my-8'>
-      <h1 className='font-bold text-5xl text-center text-amarillo'>Kaixarranka taberna</h1>
+    <header>
+      <h1 className='font-bold text-left text-amarillo text-4xl my-8'>Kaixarranka taberna</h1>
     </header>
   )
 }
